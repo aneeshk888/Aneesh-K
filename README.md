@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aneesh K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:aneeshmk172003@gmail.com</h3>
 <p align="left">
 </p>
 
