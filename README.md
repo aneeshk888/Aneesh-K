@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MongoDB project.**
 
-- 🌱 I’m currently learning **dotnet  & database technology.**
+- 🌱 I’m currently learning about **dotnet  & database technology.**
 
 - 💬 Ask me about **Html,Css,Javascript,Python.**
 
