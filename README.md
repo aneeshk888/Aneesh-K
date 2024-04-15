@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **MongoDB project.**
 
-- 🌱 I’m currently learning **dotnet technology.**
+- 🌱 I’m currently learning **dotnet  & database technology.**
 
-- 💬 Ask me about **Html,Css,Javascript.**
+- 💬 Ask me about **Html,Css,Javascript,Python.**
 
 - 📫 How to reach me **aneeshmk172003@gmail.com**
 
