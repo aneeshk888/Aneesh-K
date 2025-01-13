@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aneesh K</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alienboi88&label=Profile%20views&color=0e75b6&style=flat" alt="alienboi88" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aneesh888&label=Profile%20views&color=0e75b6&style=flat" alt="aneesh888" /> </p>
 
 - 🔭 I’m currently working on **Backend[mongodb]**
 
@@ -12,6 +12,13 @@
 - 📫 How to reach me **aneeshmk172003@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
+
+
+
+
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://github.com/user-attachments/assets/19ab7be5-e439-48ba-bf45-a8b66ce219b1)
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
